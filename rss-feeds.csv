@@ -1,0 +1,47 @@
+﻿id,name,url,enabled
+hacker-news,Hacker News,https://hnrss.org/frontpage,True
+ruanyifeng,阮一峰的网络日志,http://www.ruanyifeng.com/blog/atom.xml,True
+yahoo-finance,雅虎财经,https://finance.yahoo.com/news/rssindex,True
+wsj-world,华尔街日报 - 世界新闻,https://feeds.a.dj.com/rss/RSSWorldNews.xml,True
+bloomberg-markets,彭博社 - 市场,https://feeds.bloomberg.com/markets/news.rss,True
+time-magazine,时代周刊,https://time.com/feed/,True
+bbc-world,BBC - 世界新闻,https://feeds.bbci.co.uk/news/world/rss.xml,True
+guardian-world,卫报 - 世界新闻,https://www.theguardian.com/world/rss,True
+france24-en,France 24 English,https://www.france24.com/en/rss,True
+france24-fr,France 24 Francais,https://www.france24.com/fr/rss,True
+rfi-en,法国国际广播电台 - English,https://www.rfi.fr/en/rss,True
+nhk-japan,NHK 日本新闻,https://www3.nhk.or.jp/rss/news/cat0.xml,True
+malay-mail,Malay Mail,https://www.malaymail.com/feed/rss,True
+utusan-malaysia,Utusan Malaysia,https://www.utusan.com.my/feed/,True
+astro-awani,Astro Awani,https://www.astroawani.com/rss.xml,True
+bing-the-times,泰晤士报 - Bing News,https://www.bing.com/news/search?q=site%3Athetimes.com&format=RSS,True
+bing-le-monde,世界报 Le Monde - Bing News,https://www.bing.com/news/search?q=site%3Alemonde.fr&format=RSS,True
+bing-le-figaro,费加罗报 Le Figaro - Bing News,https://www.bing.com/news/search?q=site%3Alefigaro.fr&format=RSS,True
+bing-nikkei,日本经济新闻 - Bing News,https://www.bing.com/news/search?q=site%3Anikkei.com&format=RSS,True
+bing-mainichi,每日新闻 - Bing News,https://www.bing.com/news/search?q=site%3Amainichi.jp&format=RSS,True
+bing-star-malaysia,The Star Malaysia - Bing News,https://www.bing.com/news/search?q=site%3Athestar.com.my&format=RSS,True
+bing-sinchew,星洲日报 - Bing News,https://www.bing.com/news/search?q=site%3Asinchew.com.my&format=RSS,True
+bing-china-press-my,中国报 - Bing News,https://www.bing.com/news/search?q=site%3Achinapress.com.my&format=RSS,True
+bing-oriental-daily-my,马来西亚东方日报 - Bing News,https://www.bing.com/news/search?q=site%3Aorientaldaily.com.my&format=RSS,True
+bing-nanyang,南洋商报 - Bing News,https://www.bing.com/news/search?q=site%3Aenanyang.my&format=RSS,True
+bing-kwong-wah,光华日报 - Bing News,https://www.bing.com/news/search?q=site%3Akwongwah.com.my&format=RSS,True
+bing-berita-harian,Berita Harian - Bing News,https://www.bing.com/news/search?q=site%3Abharian.com.my&format=RSS,True
+bing-harian-metro,Harian Metro - Bing News,https://www.bing.com/news/search?q=site%3Ahmetro.com.my&format=RSS,True
+bing-sinar-harian,Sinar Harian - Bing News,https://www.bing.com/news/search?q=site%3Asinarharian.com.my&format=RSS,True
+bing-bernama,Bernama - Bing News,https://www.bing.com/news/search?q=site%3Abernama.com&format=RSS,True
+bing-southern-weekend,南方周末 - Bing News,https://www.bing.com/news/search?q=site%3Ainfzm.com&format=RSS,True
+bing-reuters-world,路透社 Reuters - Bing News,https://www.bing.com/news/search?q=site%3Areuters.com&format=RSS,True
+bing-associated-press,美联社 AP - Bing News,https://www.bing.com/news/search?q=site%3Aapnews.com&format=RSS,True
+bing-afp,法新社 AFP - Bing News,https://www.bing.com/news/search?q=site%3Aafp.com&format=RSS,True
+wired,WIRED 最新科技,https://www.wired.com/feed/rss,True
+techcrunch,TechCrunch,https://techcrunch.com/feed/,True
+github-trending-daily,GitHub Trending - Daily,https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml,True
+zhihu-daily,知乎每日精选,https://plink.anyfeeder.com/zhihu/daily,True
+sspai,少数派,https://sspai.com/feed,True
+ifanr,爱范儿,https://www.ifanr.com/feed,True
+thepaper-news,澎湃新闻,https://plink.anyfeeder.com/weixin/thepapernews,True
+jiemian-news,界面新闻,https://plink.anyfeeder.com/jiemian/news,True
+ithome,IT之家,https://www.ithome.com/rss/,True
+solidot,奇客 Solidot,https://www.solidot.org/index.rss,True
+zaobao-china,联合早报 - 中港台,https://plink.anyfeeder.com/zaobao/realtime/china,True
+infzm-news,南方周末 - RSSHub,https://rsshub.bestblogs.dev/infzm/2,True

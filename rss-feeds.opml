@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+ <head>
+  <title>TrendRadar RSS Subscriptions</title>
+ </head>
+ <body>
+  <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://hnrss.org/frontpage" />
+  <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/atom.xml" />
+  <outline type="rss" text="雅虎财经" title="雅虎财经" xmlUrl="https://finance.yahoo.com/news/rssindex" htmlUrl="https://finance.yahoo.com/news/rssindex" />
+  <outline type="rss" text="华尔街日报 - 世界新闻" title="华尔街日报 - 世界新闻" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" htmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" />
+  <outline type="rss" text="彭博社 - 市场" title="彭博社 - 市场" xmlUrl="https://feeds.bloomberg.com/markets/news.rss" htmlUrl="https://feeds.bloomberg.com/markets/news.rss" />
+  <outline type="rss" text="时代周刊" title="时代周刊" xmlUrl="https://time.com/feed/" htmlUrl="https://time.com/feed/" />
+  <outline type="rss" text="BBC - 世界新闻" title="BBC - 世界新闻" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" />
+  <outline type="rss" text="卫报 - 世界新闻" title="卫报 - 世界新闻" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world/rss" />
+  <outline type="rss" text="France 24 English" title="France 24 English" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/rss" />
+  <outline type="rss" text="France 24 Francais" title="France 24 Francais" xmlUrl="https://www.france24.com/fr/rss" htmlUrl="https://www.france24.com/fr/rss" />
+  <outline type="rss" text="法国国际广播电台 - English" title="法国国际广播电台 - English" xmlUrl="https://www.rfi.fr/en/rss" htmlUrl="https://www.rfi.fr/en/rss" />
+  <outline type="rss" text="NHK 日本新闻" title="NHK 日本新闻" xmlUrl="https://www3.nhk.or.jp/rss/news/cat0.xml" htmlUrl="https://www3.nhk.or.jp/rss/news/cat0.xml" />
+  <outline type="rss" text="Malay Mail" title="Malay Mail" xmlUrl="https://www.malaymail.com/feed/rss" htmlUrl="https://www.malaymail.com/feed/rss" />
+  <outline type="rss" text="Utusan Malaysia" title="Utusan Malaysia" xmlUrl="https://www.utusan.com.my/feed/" htmlUrl="https://www.utusan.com.my/feed/" />
+  <outline type="rss" text="Astro Awani" title="Astro Awani" xmlUrl="https://www.astroawani.com/rss.xml" htmlUrl="https://www.astroawani.com/rss.xml" />
+  <outline type="rss" text="泰晤士报 - Bing News" title="泰晤士报 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Athetimes.com&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Athetimes.com&amp;format=RSS" />
+  <outline type="rss" text="世界报 Le Monde - Bing News" title="世界报 Le Monde - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Alemonde.fr&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Alemonde.fr&amp;format=RSS" />
+  <outline type="rss" text="费加罗报 Le Figaro - Bing News" title="费加罗报 Le Figaro - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Alefigaro.fr&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Alefigaro.fr&amp;format=RSS" />
+  <outline type="rss" text="日本经济新闻 - Bing News" title="日本经济新闻 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Anikkei.com&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Anikkei.com&amp;format=RSS" />
+  <outline type="rss" text="每日新闻 - Bing News" title="每日新闻 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Amainichi.jp&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Amainichi.jp&amp;format=RSS" />
+  <outline type="rss" text="The Star Malaysia - Bing News" title="The Star Malaysia - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Athestar.com.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Athestar.com.my&amp;format=RSS" />
+  <outline type="rss" text="星洲日报 - Bing News" title="星洲日报 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Asinchew.com.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Asinchew.com.my&amp;format=RSS" />
+  <outline type="rss" text="中国报 - Bing News" title="中国报 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Achinapress.com.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Achinapress.com.my&amp;format=RSS" />
+  <outline type="rss" text="马来西亚东方日报 - Bing News" title="马来西亚东方日报 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Aorientaldaily.com.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Aorientaldaily.com.my&amp;format=RSS" />
+  <outline type="rss" text="南洋商报 - Bing News" title="南洋商报 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Aenanyang.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Aenanyang.my&amp;format=RSS" />
+  <outline type="rss" text="光华日报 - Bing News" title="光华日报 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Akwongwah.com.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Akwongwah.com.my&amp;format=RSS" />
+  <outline type="rss" text="Berita Harian - Bing News" title="Berita Harian - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Abharian.com.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Abharian.com.my&amp;format=RSS" />
+  <outline type="rss" text="Harian Metro - Bing News" title="Harian Metro - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Ahmetro.com.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Ahmetro.com.my&amp;format=RSS" />
+  <outline type="rss" text="Sinar Harian - Bing News" title="Sinar Harian - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Asinarharian.com.my&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Asinarharian.com.my&amp;format=RSS" />
+  <outline type="rss" text="Bernama - Bing News" title="Bernama - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Abernama.com&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Abernama.com&amp;format=RSS" />
+  <outline type="rss" text="南方周末 - Bing News" title="南方周末 - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Ainfzm.com&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Ainfzm.com&amp;format=RSS" />
+  <outline type="rss" text="路透社 Reuters - Bing News" title="路透社 Reuters - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Areuters.com&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Areuters.com&amp;format=RSS" />
+  <outline type="rss" text="美联社 AP - Bing News" title="美联社 AP - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Aapnews.com&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Aapnews.com&amp;format=RSS" />
+  <outline type="rss" text="法新社 AFP - Bing News" title="法新社 AFP - Bing News" xmlUrl="https://www.bing.com/news/search?q=site%3Aafp.com&amp;format=RSS" htmlUrl="https://www.bing.com/news/search?q=site%3Aafp.com&amp;format=RSS" />
+  <outline type="rss" text="WIRED 最新科技" title="WIRED 最新科技" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/feed/rss" />
+  <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/feed/" />
+  <outline type="rss" text="GitHub Trending - Daily" title="GitHub Trending - Daily" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" />
+  <outline type="rss" text="知乎每日精选" title="知乎每日精选" xmlUrl="https://plink.anyfeeder.com/zhihu/daily" htmlUrl="https://plink.anyfeeder.com/zhihu/daily" />
+  <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/feed" />
+  <outline type="rss" text="爱范儿" title="爱范儿" xmlUrl="https://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com/feed" />
+  <outline type="rss" text="澎湃新闻" title="澎湃新闻" xmlUrl="https://plink.anyfeeder.com/weixin/thepapernews" htmlUrl="https://plink.anyfeeder.com/weixin/thepapernews" />
+  <outline type="rss" text="界面新闻" title="界面新闻" xmlUrl="https://plink.anyfeeder.com/jiemian/news" htmlUrl="https://plink.anyfeeder.com/jiemian/news" />
+  <outline type="rss" text="IT之家" title="IT之家" xmlUrl="https://www.ithome.com/rss/" htmlUrl="https://www.ithome.com/rss/" />
+  <outline type="rss" text="奇客 Solidot" title="奇客 Solidot" xmlUrl="https://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org/index.rss" />
+  <outline type="rss" text="联合早报 - 中港台" title="联合早报 - 中港台" xmlUrl="https://plink.anyfeeder.com/zaobao/realtime/china" htmlUrl="https://plink.anyfeeder.com/zaobao/realtime/china" />
+  <outline type="rss" text="南方周末 - RSSHub" title="南方周末 - RSSHub" xmlUrl="https://rsshub.bestblogs.dev/infzm/2" htmlUrl="https://rsshub.bestblogs.dev/infzm/2" />
+ </body>
+</opml>

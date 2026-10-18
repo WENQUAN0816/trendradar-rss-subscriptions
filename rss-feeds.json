@@ -1,0 +1,233 @@
+[
+  {
+    "id": "hacker-news",
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage"
+  },
+  {
+    "id": "ruanyifeng",
+    "name": "阮一峰的网络日志",
+    "url": "http://www.ruanyifeng.com/blog/atom.xml",
+    "enabled": true
+  },
+  {
+    "id": "yahoo-finance",
+    "name": "雅虎财经",
+    "url": "https://finance.yahoo.com/news/rssindex"
+  },
+  {
+    "id": "wsj-world",
+    "name": "华尔街日报 - 世界新闻",
+    "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+  },
+  {
+    "id": "bloomberg-markets",
+    "name": "彭博社 - 市场",
+    "url": "https://feeds.bloomberg.com/markets/news.rss"
+  },
+  {
+    "id": "time-magazine",
+    "name": "时代周刊",
+    "url": "https://time.com/feed/"
+  },
+  {
+    "id": "bbc-world",
+    "name": "BBC - 世界新闻",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+  },
+  {
+    "id": "guardian-world",
+    "name": "卫报 - 世界新闻",
+    "url": "https://www.theguardian.com/world/rss"
+  },
+  {
+    "id": "france24-en",
+    "name": "France 24 English",
+    "url": "https://www.france24.com/en/rss"
+  },
+  {
+    "id": "france24-fr",
+    "name": "France 24 Francais",
+    "url": "https://www.france24.com/fr/rss"
+  },
+  {
+    "id": "rfi-en",
+    "name": "法国国际广播电台 - English",
+    "url": "https://www.rfi.fr/en/rss"
+  },
+  {
+    "id": "nhk-japan",
+    "name": "NHK 日本新闻",
+    "url": "https://www3.nhk.or.jp/rss/news/cat0.xml"
+  },
+  {
+    "id": "malay-mail",
+    "name": "Malay Mail",
+    "url": "https://www.malaymail.com/feed/rss"
+  },
+  {
+    "id": "utusan-malaysia",
+    "name": "Utusan Malaysia",
+    "url": "https://www.utusan.com.my/feed/"
+  },
+  {
+    "id": "astro-awani",
+    "name": "Astro Awani",
+    "url": "https://www.astroawani.com/rss.xml"
+  },
+  {
+    "id": "bing-the-times",
+    "name": "泰晤士报 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Athetimes.com&format=RSS"
+  },
+  {
+    "id": "bing-le-monde",
+    "name": "世界报 Le Monde - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Alemonde.fr&format=RSS"
+  },
+  {
+    "id": "bing-le-figaro",
+    "name": "费加罗报 Le Figaro - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Alefigaro.fr&format=RSS"
+  },
+  {
+    "id": "bing-nikkei",
+    "name": "日本经济新闻 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Anikkei.com&format=RSS"
+  },
+  {
+    "id": "bing-mainichi",
+    "name": "每日新闻 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Amainichi.jp&format=RSS"
+  },
+  {
+    "id": "bing-star-malaysia",
+    "name": "The Star Malaysia - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Athestar.com.my&format=RSS"
+  },
+  {
+    "id": "bing-sinchew",
+    "name": "星洲日报 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Asinchew.com.my&format=RSS"
+  },
+  {
+    "id": "bing-china-press-my",
+    "name": "中国报 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Achinapress.com.my&format=RSS"
+  },
+  {
+    "id": "bing-oriental-daily-my",
+    "name": "马来西亚东方日报 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Aorientaldaily.com.my&format=RSS"
+  },
+  {
+    "id": "bing-nanyang",
+    "name": "南洋商报 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Aenanyang.my&format=RSS"
+  },
+  {
+    "id": "bing-kwong-wah",
+    "name": "光华日报 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Akwongwah.com.my&format=RSS"
+  },
+  {
+    "id": "bing-berita-harian",
+    "name": "Berita Harian - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Abharian.com.my&format=RSS"
+  },
+  {
+    "id": "bing-harian-metro",
+    "name": "Harian Metro - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Ahmetro.com.my&format=RSS"
+  },
+  {
+    "id": "bing-sinar-harian",
+    "name": "Sinar Harian - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Asinarharian.com.my&format=RSS"
+  },
+  {
+    "id": "bing-bernama",
+    "name": "Bernama - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Abernama.com&format=RSS"
+  },
+  {
+    "id": "bing-southern-weekend",
+    "name": "南方周末 - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Ainfzm.com&format=RSS"
+  },
+  {
+    "id": "bing-reuters-world",
+    "name": "路透社 Reuters - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Areuters.com&format=RSS"
+  },
+  {
+    "id": "bing-associated-press",
+    "name": "美联社 AP - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Aapnews.com&format=RSS"
+  },
+  {
+    "id": "bing-afp",
+    "name": "法新社 AFP - Bing News",
+    "url": "https://www.bing.com/news/search?q=site%3Aafp.com&format=RSS"
+  },
+  {
+    "id": "wired",
+    "name": "WIRED 最新科技",
+    "url": "https://www.wired.com/feed/rss"
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/"
+  },
+  {
+    "id": "github-trending-daily",
+    "name": "GitHub Trending - Daily",
+    "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml"
+  },
+  {
+    "id": "zhihu-daily",
+    "name": "知乎每日精选",
+    "url": "https://plink.anyfeeder.com/zhihu/daily"
+  },
+  {
+    "id": "sspai",
+    "name": "少数派",
+    "url": "https://sspai.com/feed"
+  },
+  {
+    "id": "ifanr",
+    "name": "爱范儿",
+    "url": "https://www.ifanr.com/feed"
+  },
+  {
+    "id": "thepaper-news",
+    "name": "澎湃新闻",
+    "url": "https://plink.anyfeeder.com/weixin/thepapernews"
+  },
+  {
+    "id": "jiemian-news",
+    "name": "界面新闻",
+    "url": "https://plink.anyfeeder.com/jiemian/news"
+  },
+  {
+    "id": "ithome",
+    "name": "IT之家",
+    "url": "https://www.ithome.com/rss/"
+  },
+  {
+    "id": "solidot",
+    "name": "奇客 Solidot",
+    "url": "https://www.solidot.org/index.rss"
+  },
+  {
+    "id": "zaobao-china",
+    "name": "联合早报 - 中港台",
+    "url": "https://plink.anyfeeder.com/zaobao/realtime/china"
+  },
+  {
+    "id": "infzm-news",
+    "name": "南方周末 - RSSHub",
+    "url": "https://rsshub.bestblogs.dev/infzm/2"
+  }
+]
